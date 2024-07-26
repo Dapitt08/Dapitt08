@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dapitt08
-- 👀 I’m interested in Web Developtmen
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 <!---
 Dapitt08/Dapitt08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
